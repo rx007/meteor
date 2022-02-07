@@ -6,7 +6,7 @@
   "repository": "no warn",
   "dependencies": {
     "eslint": "0.22.1",
-    "eslint-plugin-react": "2.5.0",
+    "eslint-plugin-react": "2.7.1",
     "babel-eslint": "4.0.5"
   }
 }
